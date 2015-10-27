@@ -1,0 +1,18 @@
+README
+-------
+
+ 1. This directory contains rules and traces for the evaluation of all NSLab's 
+    packet classification algorithms.
+
+ 2. It originates from WUSTL's work: http://www.arl.wustl.edu/~hs1/
+    Many thanks to their previous work!
+
+ 3. Minor modifications are introduced to simplify coding:
+    The default rule (the whole search space) is attached to several classifiers
+    Some traces are modified to coordinate with the rule's changes
+
+ 4. To obtain the vanilla rules and traces, please refer to the upper URL.
+
+
+If any question, please contact: Xiang Wang (xiang.wang.s@gmail.com)
+
